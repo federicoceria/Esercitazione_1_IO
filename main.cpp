@@ -4,7 +4,7 @@
 
 double map(double x)
 { 
-return 3/4*x-7/4;
+return 3.0/4.0*x-7.0/4.0;
 }
 
 int main()
